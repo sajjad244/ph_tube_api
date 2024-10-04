@@ -165,6 +165,9 @@ const displayVideos = (videos) => {
              : ""
          }
     </div>
+         <p>
+         <button class= "btn btn-sm btn-error">Details</button>
+        </p>
     </div>
 
   </div>
